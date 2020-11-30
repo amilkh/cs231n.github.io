@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CS231n: Taking a Course Project to Publication
+mathjax: true
 permalink: /student-posts/project-to-conference/
 ---
 
